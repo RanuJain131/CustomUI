@@ -52,7 +52,7 @@ jar {
             'Morpheus-Logo': 'assets/datadog-logo.png',
             'Morpheus-Logo-Dark': 'assets/datadog-logo.png',
             'Morpheus-Labels': 'Plugin, Monitoring, DataDog',
-            'Morpheus-Repo': 'https://github.com/martezr/morpheus-datadog-instance-tab-plugin',
+            'Morpheus-Repo': 'https://github.com/RanuJain131/CustomUI/blob/main/morpheus-datadog-instance-tab-plugin-main',
             'Morpheus-Min-Appliance-Version': "5.5.0",
             'Plugin-Class': 'com.morpheusdata.tab.DataDogTabPlugin',
             'Plugin-Version': archiveVersion.get() // Get version defined in gradle
