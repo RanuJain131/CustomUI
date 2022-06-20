@@ -21,8 +21,8 @@ class DataDogTabPlugin extends Plugin {
 		this.setName("DataDog Tab Plugin")
 		this.setDescription("Instance tab plugin displaying DataDog data")
 		this.setAuthor("Martez Reed")
-		this.setSourceCodeLocationUrl("https://github.com/martezr/morpheus-datadog-instance-tab-plugin")
-		this.setIssueTrackerUrl("https://github.com/martezr/morpheus-datadog-instance-tab-plugin/issues")
+		this.setSourceCodeLocationUrl("https://github.com/RanuJain131/CustomUI/blob/main/morpheus-datadog-instance-tab-plugin-main")
+		this.setIssueTrackerUrl("https://github.com/RanuJain131/CustomUI/blob/main/morpheus-datadog-instance-tab-plugin-main/issues")
 		this.setPermissions([Permission.build('DataDog Instance Tab','datadog-instance-tab', [Permission.AccessType.none, Permission.AccessType.full])])
 		// Plugin settings the are used to configure the behavior of the plugin
 		// https://developer.morpheusdata.com/api/com/morpheusdata/model/OptionType.html
